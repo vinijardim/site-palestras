@@ -1,0 +1,15 @@
+.container{
+    width: 96%;
+    margin: 0 auto;
+}
+
+.button{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background-color: #48A3A6;
+    padding: 25px 50px;
+    border-radius: 8px;
+}

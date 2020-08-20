@@ -1,0 +1,96 @@
+.panel-form{
+    margin-top: 32px;
+}
+
+.panel-form .title{
+    font-size: 32px;
+    color: #EF7247;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.field{
+    margin-bottom: 16px;
+}
+
+.field .field-label{
+    display: block;
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.field .field-input{
+    width: 100%;
+    display: block;
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px #48A3A6;
+}
+
+.button-place{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.subscriber{
+    width: 400px;
+}
+
+.subscriber-main {
+    text-align: center;
+}
+
+.subscriber-main .title{
+    font-weight: bold;
+    font-size: 30px;
+    color: #EF7247;
+
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.subscriber-main .subscriber .option{
+    display: block;
+    text-align: left;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.subscriber-main .subscriber .input{
+    width: 300px;
+    display: block;
+    text-align: left;
+    box-shadow: 1px 1px 1px teal;
+    border-radius: 5px;
+}
+
+.subscriber-main .subscriber .button-sub{
+    font-weight: bold;
+    margin-top: 10px;
+    background-color: teal;
+    color: white;
+    border-radius: 5px;
+    padding: 20px 30px;
+    display: inline-block;
+    text-align: center;
+}
+
+*/
